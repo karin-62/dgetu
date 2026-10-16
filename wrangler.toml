@@ -11,3 +11,13 @@ id = "54c44e7bbb664a24aaae63f4f1995304"
 
 [observability]
 enabled = true
+[observability]
+enabled = true
+
+[observability.logs]
+enabled = true
+invocation_logs = true
+head_sampling_rate = 1
+
+[observability.traces]
+enabled = false
