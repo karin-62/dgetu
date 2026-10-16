@@ -1,4 +1,3 @@
-
 name = "dgetu"
 main = "_worker.js"
 compatibility_date = "2025-11-04"
@@ -9,8 +8,6 @@ keep_vars = true
 binding = "KV"
 id = "54c44e7bbb664a24aaae63f4f1995304"
 
-[observability]
-enabled = true
 [observability]
 enabled = true
 
